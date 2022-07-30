@@ -1,0 +1,4 @@
+Redirect chains
+Category: Redirects
+A redirect chain occurs when there is more than one redirect between the initial URL and the destination URL.
+
